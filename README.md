@@ -1,0 +1,1 @@
+Hello! My name is Nkosinathi Mdala and I am new to coding. This is not a serious project so I will only upload this one python file that I wrote on VS code. I only wanted to test how this thing works (I might be writing this README file the wrong way too) so I hope you enjoy the project and consider adding to it. 
